@@ -1,9 +1,4 @@
-# Model Transformation Algorithm
-## Reinforcement learning of model transformation
-
-**Authors**: Quentin Brilhault, Esma Yahia, Lionel Roucoules
-
-**Laboratory**: Laboratory of Physical and Digital Systems Engineering (LISPEN), Arts et Métiers Institute of Technology
+# Reinforcement learning of model transformation (RL4MT)
 
 ## Installation 
 
